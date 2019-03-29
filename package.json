@@ -1,0 +1,15 @@
+{
+  "name": "mypofo-api",
+  "version": "1.0.0",
+  "description": "Api for the Program",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "bharath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17"
+  }
+}
